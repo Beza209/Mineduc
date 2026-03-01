@@ -1,2 +1,2 @@
-# Mineduc
-A website that will help students and teachers to connect and get basic information about academics from the ministry of education.
+# MINEDUC-homepage-clone.
+A homepage that describes and gives basic information about academics to both students and teachers from the ministry of education.
