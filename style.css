@@ -1,4 +1,5 @@
- margin: 0;
+reset {
+margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
@@ -124,7 +125,7 @@ body {
     background-color: #0a6ed1;
     border-radius: 5px;
 }
-<style>
+
   .explore-button {
     background-color: #007BFF; /* A modern blue */
     color: white;
